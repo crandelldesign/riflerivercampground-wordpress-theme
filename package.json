@@ -1,0 +1,22 @@
+{
+  "name": "rifle-river-campground-2015",
+  "version": "1.0.0",
+  "description": "This is a wordpress theme used to create the website for Rifle River Campground.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5inallDesign/riflerivercampground.git"
+  },
+  "author": "Matt Crandell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5inallDesign/riflerivercampground/issues"
+  },
+  "homepage": "https://github.com/5inallDesign/riflerivercampground",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3"
+  }
+}
