@@ -111,6 +111,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 @import "bootstrap";
 
 /* Font Awesome */
+$fa-font-path: "fonts" !default;
 @import "font-awesome/font-awesome";
 
 /* Master Styles */
